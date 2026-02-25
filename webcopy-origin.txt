@@ -1,0 +1,176 @@
+Uri: https://cdn-gop.garenanow.com/gop/app/0000/100/067/icon.png
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\gop\app\0000\100\067\icon.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\npm\bootstrap@4.6.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\npm\bootstrap@4.6.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/ajax-loader.gif
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\fonts\slick.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot?
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\fonts\slick-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.svg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.ttf
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.woff
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\fonts\slick.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\slick-theme.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\ajax\libs\slick-carousel\1.8.1\slick.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://js.pusher.com/8.3.0/pusher.min.js
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\8.3.0\pusher.min.js
+Content Type: text/javascript
+
+Uri: https://naptet.vn/
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\index.htm
+Content Type: text/html
+
+Uri: https://naptet.vn/favicon.ico
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://naptet.vn/image/buoc1.jpg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\image\buoc1.jpg
+Content Type: image/jpeg
+
+Uri: https://naptet.vn/image/buoc2.jpg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\image\buoc2.jpg
+Content Type: image/jpeg
+
+Uri: https://naptet.vn/image/sp_pc_15092022.jpg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\image\sp_pc_15092022.jpg
+Content Type: image/jpeg
+
+Uri: https://naptet.vn/template/css/formmm.css?v=1
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\template\css\formmm.css
+Content Type: text/css
+
+Uri: https://naptet.vn/template/css/home_back.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\template\css\home_back.css
+Content Type: text/css
+
+Uri: https://naptet.vn/template/css/style_nap_the.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\template\css\style_nap_the.css
+Content Type: text/css
+
+Uri: https://naptet.vn/template/img/logo.png
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\template\img\logo.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/css/all.css
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.eot
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.svg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.woff
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.eot
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.svg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.woff
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.eot
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.svg
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.woff
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\releases\v5.11.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.google.com/recaptcha/api.js?hl=vi
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-16837525575
+File Name: C:\Users\Admin\Downloads\FF\naptet.vn\gtag\js
+Content Type: application/javascript
+
